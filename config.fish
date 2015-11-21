@@ -22,3 +22,4 @@ end
 if test -d ~/.rvm
   set -x PATH ~/.rvm/bin $PATH
 end
+
